@@ -174,7 +174,7 @@ module.exports.generate = function(type, options){
             return number;
             break;
         case 'expiration':
-            return '1504';
+            return '9904';
         case 'list_name':
             return 'Ed Beggler';
         case 'track_one':
